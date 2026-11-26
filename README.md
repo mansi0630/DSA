@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mansi0630/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mansi0630/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mansi0630/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0743-network-delay-time](https://github.com/mansi0630/DSA/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mansi0630/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mansi0630/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mansi0630/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0743-network-delay-time](https://github.com/mansi0630/DSA/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -107,4 +109,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mansi0630/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mansi0630/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/mansi0630/DSA/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/mansi0630/DSA/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/mansi0630/DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/mansi0630/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
