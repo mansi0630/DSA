@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mansi0630/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mansi0630/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mansi0630/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0684-redundant-connection](https://github.com/mansi0630/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/mansi0630/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mansi0630/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mansi0630/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mansi0630/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mansi0630/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0684-redundant-connection](https://github.com/mansi0630/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/mansi0630/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mansi0630/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/mansi0630/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/mansi0630/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mansi0630/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/mansi0630/DSA/tree/master/0743-network-delay-time) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/mansi0630/DSA/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
